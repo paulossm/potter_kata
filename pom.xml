@@ -5,10 +5,4 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Potter Kata</name>
   <description>		</description>
-  <dependency>
-  	<groupId>org.hamcrest</groupId>
-	<artifactId>hamcrest-library</artifactId>
-	<version>1.3</version>
-	<scope>test</scope>
-  </dependency>
 </project>
